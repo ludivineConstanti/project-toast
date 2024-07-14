@@ -59,3 +59,10 @@
 .error .iconContainer {
   color: var(--color-error);
 }
+
+.visuallyHidden {
+  opacity: 0;
+  position: absolute;
+  height: 0;
+  width: 0;
+}
